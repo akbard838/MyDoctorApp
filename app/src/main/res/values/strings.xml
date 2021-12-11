@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyDoctor</string>
+    <string name="label_my_doctor">My Doctor</string>
+    <string name="message_get_started_page"><![CDATA[Konsultasi dengan dokter jadi lebih mudah & fleksibel]]></string>
+    <string name="message_sign_in">Masuk dan mulai berkonsultasi</string>
+    <string name="button_get_started">Get Started</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="label_forgot_my_password"><u>Forgot My Password </u></string>
+    <string name="label_create_new_account"><u>Create New Account</u></string>
+    <string name="button_continue">Continue</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_job">Pekerjaan</string>
+    <string name="title_create_account">Daftar Akun</string>
+</resources>

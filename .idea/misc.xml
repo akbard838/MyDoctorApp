@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/drawable/bg_black_transparent.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/drawable/bg_rectangle_white_rounded.xml" value="0.32421875" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/drawable/ic_back_white.xml" value="0.32421875" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/drawable/ic_logo.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/activity_get_started.xml" value="0.22" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/activity_main.xml" value="0.14392803598200898" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/activity_sign_in.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/activity_sign_up.xml" value="0.14392803598200898" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/activity_splash_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/layout_toolbar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/akbar/Documents/AndroidProjects/MyDoctor/app/src/main/res/layout/styles_button.xml" value="0.14392803598200898" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
